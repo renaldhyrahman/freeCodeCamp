@@ -14,5 +14,5 @@
   - [x] [Build a Book Catalog Table](./03-forms-and-tables/02.html)
 - [Accessibility](./04-accessibility/README.md)
   - [x] [Build a Checkout Page](./04-accessibility/01.html)
-  - [ ] [Design a Movie Review Page](./04-accessibility/02.html)
+  - [x] [Design a Movie Review Page](./04-accessibility/02.html)
   - [ ] Build a Multimedia Player
