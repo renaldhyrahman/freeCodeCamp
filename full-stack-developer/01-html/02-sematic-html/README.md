@@ -1,3 +1,3 @@
 # Semantic HTML
 
-- [ ] [Build an Event Hub](./01.html)
+- [x] [Build an Event Hub](./01.html)
