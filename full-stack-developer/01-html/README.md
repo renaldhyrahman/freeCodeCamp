@@ -15,4 +15,4 @@
 - [Accessibility](./04-accessibility/README.md)
   - [x] [Build a Checkout Page](./04-accessibility/01.html)
   - [x] [Design a Movie Review Page](./04-accessibility/02.html)
-  - [ ] [Build a Multimedia Player](./04-accessibility/03.html)
+  - [x] [Build a Multimedia Player](./04-accessibility/03.html)
