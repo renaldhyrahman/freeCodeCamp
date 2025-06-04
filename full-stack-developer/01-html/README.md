@@ -13,6 +13,6 @@
   - [x] [Build a Survey Form](./03-forms-and-tables/01.html)
   - [x] [Build a Book Catalog Table](./03-forms-and-tables/02.html)
 - [Accessibility](./04-accessibility/README.md)
-  - [ ] [Build a Checkout Page](./04-accessibility/01.html)
+  - [x] [Build a Checkout Page](./04-accessibility/01.html)
   - [ ] Design a Movie Review Page
   - [ ] Build a Multimedia Player
