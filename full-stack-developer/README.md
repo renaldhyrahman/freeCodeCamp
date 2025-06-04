@@ -2,7 +2,7 @@
 
 ## Index
 
-- [ ] HTML
+- [ ] [HTML](./01-html/README.md)
 - [ ] CSS
 - [ ] JavaScript
 - [ ] Front End Libraries
