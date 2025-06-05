@@ -3,7 +3,7 @@
 ## Index
 
 - Basic CSS
-  - [ ] Design a Business Card
+  - [x] [Design a Business Card](./01-business-card/index.html)
   - [ ] Build a Stylized To-Do List
   - [ ] Design a Blog Post Card
 - Absolute and Relative Units
