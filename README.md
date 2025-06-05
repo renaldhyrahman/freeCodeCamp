@@ -29,8 +29,8 @@ Visit my freeCodeCamp [profile](https://www.freecodecamp.org/ren-rahman)
     - [x] [Build a Multimedia Player](./full-stack-developer/01-html/04-accessibility/03.html)
 - [CSS](./full-stack-developer/02-css/README.md)
   - Basic CSS
-    - [ ] Design a Business Card
-    - [ ] Build a Stylized To-Do List
+    - [x] [Design a Business Card](./full-stack-developer/02-css/01-business-card/index.html)
+    - [ ] [Build a Stylized To-Do List](./full-stack-developer/02-css/02-todo-list/index.html)
     - [ ] Design a Blog Post Card
   - Absolute and Relative Units
     - [ ] Build an Event Flyer Page
