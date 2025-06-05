@@ -33,7 +33,7 @@ Visit my freeCodeCamp [profile](https://www.freecodecamp.org/ren-rahman)
     - [x] [Build a Stylized To-Do List](./full-stack-developer/02-css/02-todo-list/index.html)
     - [x] [Design a Blog Post Card](./full-stack-developer/02-css/03-blog-post-card/index.html)
   - Absolute and Relative Units
-    - [ ] Build an Event Flyer Page
+    - [ ] [Build an Event Flyer Page](./full-stack-developer/02-css/04-event-flyer-page/index.html)
   - Pseudo Classes and Elements
     - [ ] Build a Job Application Form
   - Colors
