@@ -4,7 +4,7 @@
 
 - Basic CSS
   - [x] [Design a Business Card](./01-business-card/index.html)
-  - [ ] [Build a Stylized To-Do List](./02-todo-list/index.html)
+  - [x] [Build a Stylized To-Do List](./02-todo-list/index.html)
   - [ ] Design a Blog Post Card
 - Absolute and Relative Units
   - [ ] Build an Event Flyer Page
