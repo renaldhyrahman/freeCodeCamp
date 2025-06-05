@@ -31,7 +31,7 @@ Visit my freeCodeCamp [profile](https://www.freecodecamp.org/ren-rahman)
   - Basic CSS
     - [x] [Design a Business Card](./full-stack-developer/02-css/01-business-card/index.html)
     - [x] [Build a Stylized To-Do List](./full-stack-developer/02-css/02-todo-list/index.html)
-    - [ ] Design a Blog Post Card
+    - [ ] [Design a Blog Post Card](./full-stack-developer/02-css/03-blog-post-card/index.html)
   - Absolute and Relative Units
     - [ ] Build an Event Flyer Page
   - Pseudo Classes and Elements

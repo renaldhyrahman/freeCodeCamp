@@ -5,7 +5,7 @@
 - Basic CSS
   - [x] [Design a Business Card](./01-business-card/index.html)
   - [x] [Build a Stylized To-Do List](./02-todo-list/index.html)
-  - [ ] Design a Blog Post Card
+  - [ ] [Design a Blog Post Card](./03-blog-post-card/index.html)
 - Absolute and Relative Units
   - [ ] Build an Event Flyer Page
 - Pseudo Classes and Elements
