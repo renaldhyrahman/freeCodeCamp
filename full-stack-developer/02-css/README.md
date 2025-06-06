@@ -7,7 +7,7 @@
   - [x] [Build a Stylized To-Do List](./02-todo-list/index.html)
   - [x] [Design a Blog Post Card](./03-blog-post-card/index.html)
 - Absolute and Relative Units
-  - [ ] [Build an Event Flyer Page](./04-event-flyer-page/index.html)
+  - [x] [Build an Event Flyer Page](./04-event-flyer-page/index.html)
 - Pseudo Classes and Elements
   - [ ] Build a Job Application Form
 - Colors
