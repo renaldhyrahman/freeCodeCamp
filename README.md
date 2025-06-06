@@ -37,7 +37,7 @@ Visit my freeCodeCamp [profile](https://www.freecodecamp.org/ren-rahman)
   - Pseudo Classes and Elements
     - [ ] Build a Job Application Form
   - Colors
-    - [ ] Design a Set of Colored Boxes
+    - [ ] [Design a Set of Colored Boxes](./full-stack-developer/02-css/06-set-of-colored-boxes/index.html)
   - Styling Forms
     - [ ] Design a Contact Form
   - The Box Model
