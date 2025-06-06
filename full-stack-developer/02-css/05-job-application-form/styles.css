@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #eee;
+  font-size: 1.6rem;
+  color: #444;
+  font-weight: 400;
+}
+
+.container {
+  background-color: #f7f7f7;
+  width: 52rem;
+  margin: 5.2rem auto;
+  padding: 3.2rem;
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.2);
+}
+
+.title {
+  text-align: center;
+  font-size: 3.2rem;
+  margin-bottom: 3.2rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+form label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.form input::placeholder {
+  color: #717171;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  padding: 1rem;
+  border: 1px solid #444;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+input:focus,
+textarea:focus {
+  border: 1px solid #339af0;
+  outline: none;
+  box-shadow: 0 0 5px 2px #339af0;
+}
+
+input:invalid,
+select:invalid,
+textarea:invalid {
+  border: 1px solid red;
+  box-shadow: 0 0 5px 2px #e03131;
+}
+
+input:valid,
+select:valid,
+textarea:valid {
+  border: 1px solid green;
+}
+
+.radio-group {
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.radio-group legend {
+  font-weight: 600;
+}
+
+.radio-group label {
+  display: inline-block;
+  font-weight: 400;
+}
+
+.radio-group input {
+  width: auto;
+}
+
+.radio-group input:last-of-type {
+  margin-left: 2rem;
+}
+
+.radio-group input[type="radio"]:checked {
+  background-color: #087f5b;
+  border: 1px solid #087f5b;
+  border-radius: 50%;
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.radio-group input[type="radio"]:checked + label {
+  color: #087f5b;
+}
+
+button {
+  cursor: pointer;
+  padding: 1rem;
+  font-size: 1.8rem;
+  background-color: #087f5b;
+  color: #f7f7f7;
+  border: none;
+  border-radius: 5px;
+
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  color: #087f5b;
+  background-color: transparent;
+  outline: 1px solid #087f5b;
+  transform: scale(1.01);
+  box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.2);
+}
+
+button:active {
+  color: #087f5b;
+  background-color: transparent;
+  outline: 1px solid #087f5b;
+  transform: scale(1);
+}
+
+input:first-of-type {
+  color: #444;
+}

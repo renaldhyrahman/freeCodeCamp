@@ -9,7 +9,7 @@
 - Absolute and Relative Units
   - [x] [Build an Event Flyer Page](./04-event-flyer-page/index.html)
 - Pseudo Classes and Elements
-  - [ ] [Build a Job Application Form](./05-job-application-form/index.html)
+  - [x] [Build a Job Application Form](./05-job-application-form/index.html)
 - Colors
   - [ ] Design a Set of Colored Boxes
 - Styling Forms
