@@ -11,7 +11,7 @@
 - Pseudo Classes and Elements
   - [ ] Build a Job Application Form
 - Colors
-  - [ ] [Design a Set of Colored Boxes](./06-set-of-colored-boxes/index.html)
+  - [x] [Design a Set of Colored Boxes](./06-set-of-colored-boxes/index.html)
 - Styling Forms
   - [ ] Design a Contact Form
 - The Box Model
