@@ -13,7 +13,7 @@
 - Colors
   - [ ] Design a Set of Colored Boxes
 - Styling Forms
-  - [ ] Design a Contact Form
+  - [ ] [Design a Contact Form](./07-contact-form/index.html)
 - The Box Model
   - [ ] Build a Confidential Email Page
 - Flexbox

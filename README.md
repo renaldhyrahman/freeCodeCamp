@@ -39,7 +39,7 @@ Visit my freeCodeCamp [profile](https://www.freecodecamp.org/ren-rahman)
   - Colors
     - [ ] Design a Set of Colored Boxes
   - Styling Forms
-    - [ ] Design a Contact Form
+    - [ ] [Design a Contact Form](./full-stack-developer/02-css/07-contact-form/index.html)
   - The Box Model
     - [ ] Build a Confidential Email Page
   - Flexbox
