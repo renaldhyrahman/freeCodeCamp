@@ -15,7 +15,7 @@
 - Styling Forms
   - [ ] Design a Contact Form
 - The Box Model
-  - [ ] Build a Confidential Email Page
+  - [ ] [Build a Confidential Email Page](./08-confidential-email-page/index.html)
 - Flexbox
   - [ ] Build a Page of Playing Cards
 - Typography
