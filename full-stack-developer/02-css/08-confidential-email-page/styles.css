@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: serif;
+  color: #444;
+  line-height: 1.25;
+  letter-spacing: 0.5px;
+}
+
+body {
+  background-color: #eee;
+}
+
+#email {
+  padding: 50px;
+  margin: 50px auto;
+  box-sizing: border-box;
+  width: 500px;
+  border: 2px solid #444;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+
+  background-color: #f6eee3;
+}
+
+.email-text {
+  font-size: 1.6rem;
+  margin-bottom: 1.6rem;
+}
+
+.email-text:last-of-type {
+  margin-bottom: 0;
+}
+
+.blurred {
+  filter: blur(3px);
+}
+
+#confidential,
+#top-secret {
+  width: fit-content;
+  padding: 1rem;
+  margin-left: 2rem;
+  border: 0.5rem solid #fa5252;
+  color: #fa5252;
+  opacity: 0.5;
+  font-size: 1.8rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+#confidential {
+  display: inline-block;
+  transform: rotate(-15deg) scale(1.25) translate(50%, 50%);
+}
+
+#top-secret {
+  display: inline-block;
+  transform: rotate(10deg) scale(1.25) translate(100%, -100%);
+}

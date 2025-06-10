@@ -35,13 +35,13 @@ Visit my freeCodeCamp [profile](https://www.freecodecamp.org/ren-rahman)
   - Absolute and Relative Units
     - [x] [Build an Event Flyer Page](./full-stack-developer/02-css/04-event-flyer-page/index.html)
   - Pseudo Classes and Elements
-    - [ ] Build a Job Application Form
+    - [x] [Build a Job Application Form](./full-stack-developer/02-css/05-job-application-form/index.html)
   - Colors
-    - [ ] Design a Set of Colored Boxes
+    - [x] [Design a Set of Colored Boxes](./full-stack-developer/02-css/06-set-of-colored-boxes/index.html)
   - Styling Forms
-    - [ ] Design a Contact Form
+    - [x] [Design a Contact Form](./full-stack-developer/02-css/07-contact-form/index.html)
   - The Box Model
-    - [ ] Build a Confidential Email Page
+    - [x] [Build a Confidential Email Page](./full-stack-developer/02-css/08-confidential-email-page/index.html)
   - Flexbox
     - [ ] Build a Page of Playing Cards
   - Typography

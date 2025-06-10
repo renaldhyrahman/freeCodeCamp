@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Job Application Form</title>
+  </head>
+  <body>
+    <div class="container">
+      <h2 class="title">Job Application Form</h2>
+      <form class="form" action="" method="POST">
+        <div>
+          <label for="name">Full Name:</label>
+          <input
+            type="text"
+            id="name"
+            name="fullName"
+            placeholder="Enter your name"
+            minlength="4"
+            maxlength="50"
+          />
+        </div>
+
+        <div>
+          <label for="email">Email:</label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Enter your email"
+          />
+        </div>
+
+        <div>
+          <label for="position">Position:</label>
+          <select id="position" name="position">
+            <option
+              value=""
+              selected
+              disabled
+              aria-selected="true"
+              aria-disabled="true"
+            >
+              Select a position
+            </option>
+            <option value="developer">Developer</option>
+            <option value="designer">Designer</option>
+            <option value="manager">Manager</option>
+          </select>
+        </div>
+
+        <fieldset class="radio-group">
+          <legend>Availability:</legend>
+
+          <input
+            type="radio"
+            value="fullTime"
+            id="availability-fullTime"
+            name="availability"
+            checked
+            aria-checked="true"
+          />
+          <label for="availability-fullTime">Full-Time</label>
+
+          <input
+            type="radio"
+            value="partTime"
+            id="availability-partTime"
+            name="availability"
+          />
+          <label for="availability-partTime">Part-Time</label>
+        </fieldset>
+
+        <div>
+          <label for="message">Why do you want this job?</label>
+          <textarea
+            name="message"
+            id="message"
+            rows="4"
+            placeholder="Write your motivation"
+          ></textarea>
+        </div>
+
+        <button type="submit">Submit Application</button>
+      </form>
+    </div>
+  </body>
+</html>
