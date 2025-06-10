@@ -17,7 +17,7 @@
 - The Box Model
   - [x] [Build a Confidential Email Page](./08-confidential-email-page/index.html)
 - Flexbox
-  - [ ] Build a Page of Playing Cards
+  - [ ] [Build a Page of Playing Cards](./09-page-of-playing-card/index.html)
 - Typography
   - [ ] Build a Newspaper Article
 - Accessibility
