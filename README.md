@@ -47,7 +47,7 @@ Visit my freeCodeCamp [profile](https://www.freecodecamp.org/ren-rahman)
   - Typography
     - [x] [Build a Newspaper Article](./full-stack-developer/02-css/10-newspaper-article/)
   - Accessibility
-    - [ ] Build a Tribute Page
+    - [ ] [Build a Tribute Page](./full-stack-developer/02-css/11-tribute-page/index.html)
   - Positioning
     - [ ] Build a House Painting
   - Attribute Selectors

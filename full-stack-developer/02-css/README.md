@@ -21,7 +21,7 @@
 - Typography
   - [x] [Build a Newspaper Article](./10-newspaper-article/index.html)
 - Accessibility
-  - [ ] Build a Tribute Page
+  - [ ] [Build a Tribute Page](./11-tribute-page/index.html)
 - Positioning
   - [ ] Build a House Painting
 - Attribute Selectors
