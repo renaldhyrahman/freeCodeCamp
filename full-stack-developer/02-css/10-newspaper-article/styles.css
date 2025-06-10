@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 24px;
+}
+
+/* HELPER */
+
+.text-center {
+  text-align: center;
+}
+
+.divider::after {
+  content: "";
+}
+
+.mb--lg {
+  margin-bottom: 48px;
+}
+.mb--md {
+  margin-bottom: 24px;
+}
+.mb--sm {
+  margin-bottom: 12px;
+}
+
+/* GENERAL */
+
+.container {
+  width: 90vw;
+  max-width: 1400px;
+  min-height: 100vh;
+  margin: 0 auto;
+}
+
+.newspaper {
+  background-color: #e9ecef;
+  width: 100%;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #343a40;
+  margin-top: 50px;
+  padding: 40px 20px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+}
+
+.name,
+.author {
+  text-transform: uppercase;
+}
+
+.name {
+  font-size: 2rem;
+  font-family: "Times New Roman", serif;
+  font-weight: bolder;
+}
+
+.date {
+  display: block;
+}
+
+.headline,
+.sub-headline {
+  text-transform: lowercase;
+}
+
+.headline::first-letter,
+.sub-headline::first-letter {
+  text-transform: uppercase;
+}
+
+.headline {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.sub-headline {
+  font-weight: 100;
+  font-size: 1.5em;
+  font-style: italic;
+  letter-spacing: 1px;
+  line-height: 1.2;
+}
+
+.author {
+  font-weight: bold;
+}
+
+.text {
+  text-indent: 20px;
+  line-height: 2em;
+}
+
+.text::first-letter {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 2em;
+}

@@ -19,7 +19,7 @@
 - Flexbox
   - [x] [Build a Page of Playing Cards](./09-page-of-playing-card/index.html)
 - Typography
-  - [ ] [Build a Newspaper Article](./10-newspaper-article/index.html)
+  - [x] [Build a Newspaper Article](./10-newspaper-article/index.html)
 - Accessibility
   - [ ] Build a Tribute Page
 - Positioning
