@@ -45,7 +45,7 @@ Visit my freeCodeCamp [profile](https://www.freecodecamp.org/ren-rahman)
   - Flexbox
     - [x] [Build a Page of Playing Cards](./full-stack-developer/02-css/09-page-of-playing-card/index.html)
   - Typography
-    - [ ] Build a Newspaper Article
+    - [ ] [Build a Newspaper Article](./full-stack-developer/02-css/10-newspaper-article/)
   - Accessibility
     - [ ] Build a Tribute Page
   - Positioning
