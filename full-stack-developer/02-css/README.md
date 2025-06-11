@@ -23,7 +23,7 @@
 - Accessibility
   - [x] [Build a Tribute Page](./11-tribute-page/index.html)
 - Positioning
-  - [ ] [Build a House Painting](./12-house-painting/index.html)
+  - [x] [Build a House Painting](./12-house-painting/index.html)
 - Attribute Selectors
   - [ ] Build a Book Inventory App
 - Responsive Design

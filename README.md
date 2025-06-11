@@ -49,7 +49,7 @@ Visit my freeCodeCamp [profile](https://www.freecodecamp.org/ren-rahman)
   - Accessibility
     - [x] [Build a Tribute Page](./full-stack-developer/02-css/11-tribute-page/index.html)
   - Positioning
-    - [ ] [Build a House Painting](./full-stack-developer/02-css/12-house-painting/index.html)
+    - [x] [Build a House Painting](./full-stack-developer/02-css/12-house-painting/index.html)
   - Attribute Selectors
     - [ ] Build a Book Inventory App
   - Responsive Design
