@@ -25,7 +25,7 @@
 - Positioning
   - [x] [Build a House Painting](./12-house-painting/index.html)
 - Attribute Selectors
-  - [ ] Build a Book Inventory App
+  - [ ] [Build a Book Inventory App](./13-book-inventory-page/index.html)
 - Responsive Design
   - [ ] Build a Technical Documentation Page
 - Variables
