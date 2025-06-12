@@ -27,7 +27,7 @@
 - Attribute Selectors
   - [x] [Build a Book Inventory App](./13-book-inventory-page/index.html)
 - Responsive Design
-  - [ ] Build a Technical Documentation Page
+  - [ ] [Build a Technical Documentation Page](./14-technical-documentation-page/index.html)
 - Variables
   - [ ] Build an Availability Table
 - Grid

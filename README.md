@@ -53,7 +53,7 @@ Visit my freeCodeCamp [profile](https://www.freecodecamp.org/ren-rahman)
   - Attribute Selectors
     - [x] [Build a Book Inventory App](./full-stack-developer/02-css/13-book-inventory-page/index.html)
   - Responsive Design
-    - [ ] Build a Technical Documentation Page
+    - [ ] [Build a Technical Documentation Page](./full-stack-developer/02-css/14-technical-documentation-page/index.html)
   - Variables
     - [ ] Build an Availability Table
   - Grid
