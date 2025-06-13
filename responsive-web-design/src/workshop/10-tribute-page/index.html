@@ -3,7 +3,190 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <meta
+      name="description"
+      content="Responsive design/CSS accessibility training (Tribute Page) with freeCodeCamp"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Tribute Page</title>
   </head>
-  <body></body>
+
+  <body>
+    <main id="main">
+      <hgroup class="title mb--lg">
+        <h1 id="title" class="heading-primary">Dr. Norman Borlaug</h1>
+        <p class="subheading-primary">The man who saved a billion lives</p>
+      </hgroup>
+
+      <figure id="img-div" class="mb--lg">
+        <img
+          src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute-page-main-image.jpg"
+          alt="Agronomist Norman Borlaug, 1970"
+          id="image"
+        />
+        <figcaption id="img-caption">
+          Dr. Norman Borlaug, third from the left, trains biologists in Mexico
+          on how to increase wheat yields - part of his life-long war on hunger.
+        </figcaption>
+      </figure>
+      <section id="tribute-info" class="mb--lg">
+        <h2 class="heading-secondary mb--md">
+          Here's a time line of Dr. Borlaug's life:
+        </h2>
+        <ul class="mb--md">
+          <li class="info-list">
+            <span class="info-year">1914</span>
+            <span>&mdash;</span>
+            <span class="info-text">Born in Cresco, Iowa</span>
+          </li>
+          <li class="info-list">
+            <span class="info-year">1933</span>
+            <span>&mdash;</span>
+            <span class="info-text"
+              >Leaves his family's farm to attend the University of Minnesota,
+              thanks to a Depression era program known as the "National Youth
+              Administration"</span
+            >
+          </li>
+          <li class="info-list">
+            <span class="info-year">1935</span>
+            <span>&mdash;</span>
+            <span class="info-text"
+              >Has to stop school and save up more money. Works in the Civilian
+              Conservation Corps, helping starving Americans. "I saw how food
+              changed them", he said. "All of this left scars on me."</span
+            >
+          </li>
+          <li class="info-list">
+            <span class="info-year">1937</span>
+            <span>&mdash;</span>
+            <span class="info-text"
+              >Finishes university and takes a job in the US Forestry
+              Service</span
+            >
+          </li>
+          <li class="info-list">
+            <span class="info-year">1938</span>
+            <span>&mdash;</span>
+            <span class="info-text"
+              >Marries wife of 69 years Margret Gibson. Gets laid off due to
+              budget cuts. Inspired by Elvin Charles Stakman, he returns to
+              school study under Stakman, who teaches him about breeding
+              pest-resistent plants</span
+            >
+          </li>
+          <li class="info-list">
+            <span class="info-year">1941</span>
+            <span>&mdash;</span>
+            <span class="info-text"
+              >Tries to enroll in the military after the Pearl Harbor attack,
+              but is rejected. Instead, the military asked his lab to work on
+              waterproof glue, DDT to control malaria, disinfectants, and other
+              applied science</span
+            >
+          </li>
+          <li class="info-list">
+            <span class="info-year">1942</span>
+            <span>&mdash;</span>
+            <span class="info-text"
+              >Receives a Ph.D. in Genetics and Plant Pathology</span
+            >
+          </li>
+          <li class="info-list">
+            <span class="info-year">1944</span>
+            <span>&mdash;</span>
+            <span class="info-text"
+              >Rejects a 100% salary increase from Dupont, leaves behind his
+              pregnant wife, and flies to Mexico to head a new plant pathology
+              program. Over the next 16 years, his team breeds 6,000 different
+              strains of disease resistent wheat - including different varieties
+              for each major climate on Earth</span
+            >
+          </li>
+          <li class="info-list">
+            <span class="info-year">1945</span>
+            <span>&mdash;</span>
+            <span class="info-text"
+              >Discovers a way to grown wheat twice each season, doubling wheat
+              yields</span
+            >
+          </li>
+          <li class="info-list">
+            <span class="info-year">1953</span>
+            <span>&mdash;</span>
+            <span class="info-text"
+              >crosses a short, sturdy dwarf breed of wheat with a high-yeidling
+              American breed, creating a strain that responds well to
+              fertilizer. It goes on to provide 95% of Mexico's wheat</span
+            >
+          </li>
+          <li class="info-list">
+            <span class="info-year">1962</span>
+            <span>&mdash;</span>
+            <span class="info-text"
+              >Visits Delhi and brings his high-yielding strains of wheat to the
+              Indian subcontinent in time to help mitigate mass starvation due
+              to a rapidly expanding population</span
+            >
+          </li>
+          <li class="info-list">
+            <span class="info-year">1970</span>
+            <span>&mdash;</span>
+            <span class="info-text">receives the Nobel Peace Prize</span>
+          </li>
+          <li class="info-list">
+            <span class="info-year">1983</span>
+            <span>&mdash;</span>
+            <span class="info-text"
+              >helps seven African countries dramatically increase their maize
+              and sorghum yields</span
+            >
+          </li>
+          <li class="info-list">
+            <span class="info-year">1984</span>
+            <span>&mdash;</span>
+            <span class="info-text"
+              >becomes a distinguished professor at Texas A&M University</span
+            >
+          </li>
+          <li class="info-list">
+            <span class="info-year">2005</span>
+            <span>&mdash;</span>
+            <span class="info-text"
+              >states "we will have to double the world food supply by 2050."
+              Argues that genetically modified crops are the only way we can
+              meet the demand, as we run out of arable land. Says that GM crops
+              are not inherently dangerous because "we've been genetically
+              modifying plants and animals for a long time. Long before we
+              called it science, people were selecting the best breeds."</span
+            >
+          </li>
+          <li class="info-list">
+            <span class="info-year">2009</span>
+            <span>&mdash;</span>
+            <span class="info-text">dies at the age of 95</span>
+          </li>
+        </ul>
+
+        <blockquote>
+          <p class="quote-text">
+            "Borlaug's life and achievement are testimony to the far-reaching
+            contribution that one man's towering intellect, persistence and
+            scientific vision can make to human peace and progress."
+          </p>
+          <p>&mdash; Indian Prime Minister Manmohan Singh</p>
+        </blockquote>
+      </section>
+      <h3 class="heading-tertiary">
+        If you have time, you should read more about this incredible human being
+        on his
+        <a
+          href="https://en.wikipedia.org/wiki/Norman_Borlaug"
+          id="tribute-link"
+          target="_blank"
+          >Wikipedia entry</a
+        >.
+      </h3>
+    </main>
+  </body>
 </html>
