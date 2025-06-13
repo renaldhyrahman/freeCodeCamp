@@ -1,0 +1,22 @@
+@media (min-width: 41em) {
+  .workshop-list {
+    column-gap: 0;
+  }
+
+  li:nth-of-type(even) .workshop-title {
+    justify-self: end;
+  }
+
+  li:nth-of-type(even) .workshop-preview {
+    grid-column: 2/3;
+    grid-row: 1;
+  }
+
+  .workshop-title {
+    margin: 2.4rem;
+    font-size: 2.4rem;
+  }
+
+  .workshop-preview {
+  }
+}
