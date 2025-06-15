@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: serif;
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #eee;
+}
+
+.reverse {
+  transform: rotate(180deg);
+}
+
+.color--red {
+  color: #f03e3e;
+}
+
+.color--black {
+  color: #212529;
+}
+
+.card.card--ace .middle {
+  font-size: 9.6rem;
+}
+
+#playing-cards {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 20px;
+  justify-content: center;
+
+  background-color: #2b8a3e;
+  border-radius: 20px;
+  box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.2);
+  width: 90%;
+  min-height: 80vh;
+  margin: 0 auto;
+  margin-top: 10rem;
+  padding: 3rem;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 1rem 0;
+  background-color: #fff;
+  width: 25rem;
+  height: 35rem;
+  border-radius: 2rem;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+.left,
+.right {
+  font-size: 2.4rem;
+  width: 4rem;
+  text-align: center;
+  line-height: 0.8;
+}
+
+.left p:last-child,
+.right p:last-child {
+  font-size: 3.2rem;
+}
+
+.left {
+  align-self: flex-start;
+}
+
+.middle {
+  align-self: center;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  font-size: 6.4rem;
+}
+
+.right {
+  align-self: flex-end;
+
+  transform: rotate(180deg);
+}
