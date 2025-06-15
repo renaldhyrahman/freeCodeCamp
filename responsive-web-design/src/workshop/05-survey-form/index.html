@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Survey Form</title>
+  </head>
+  <body>
+    <header>
+      <h1 id="title">Lorem, ipsum dolor</h1>
+      <p id="description">
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat,
+        perferendis?
+      </p>
+    </header>
+    <main>
+      <form id="survey-form" action="" method="POST">
+        <div>
+          <label for="name" id="name-label">Name</label>
+          <input
+            id="name"
+            name="full-name"
+            type="text"
+            placeholder="Ex. Jhon Doe"
+            required
+          />
+          <label for="email" id="email-label">Email</label>
+          <input
+            id="email"
+            name="email"
+            type="email"
+            placeholder="Ex. me@mail.com"
+            required
+          />
+          <label for="number" id="number-label">Age</label>
+          <input
+            id="number"
+            name="age"
+            type="number"
+            min="18"
+            max="99"
+            placeholder="21"
+            required
+          />
+        </div>
+
+        <div>
+          <label for="dropdown">Lorem ipsum dolor sit amet </label>
+          <select name="dropdown" id="dropdown">
+            <option value="" selected disabled>Select one option</option>
+            <option value="1">Lorem.</option>
+            <option value="2">Lorem, ipsum.</option>
+            <option value="3">Lorem, ipsum dolor.</option>
+          </select>
+        </div>
+
+        <fieldset>
+          <legend>Lorem, ipsum dolor.</legend>
+          <input
+            type="radio"
+            name="form-radio"
+            value="1"
+            id="survey-form__radio--1"
+          />
+          <label for="survey-form__radio--1">Lorem.</label>
+          <input
+            type="radio"
+            name="form-radio"
+            value="2"
+            id="survey-form__radio--2"
+            checked
+          />
+          <label for="survey-form__radio--2">Lorem, ipsum.</label>
+          <input
+            type="radio"
+            name="form-radio"
+            value="3"
+            id="survey-form__radio--3"
+          />
+          <label for="survey-form__radio--3">Lorem, ipsum dolor.</label>
+        </fieldset>
+
+        <fieldset>
+          <legend>Lorem ipsum dolor sit amet.</legend>
+          <input
+            type="checkbox"
+            value="1"
+            id="survey-form__checkbox--1"
+            name="form-checkbox"
+          />
+          <label for="survey-form__checkbox--1">Lorem, ipsum dolor.</label>
+          <input
+            type="checkbox"
+            value="2"
+            id="survey-form__checkbox--2"
+            name="form-checkbox"
+          />
+          <label for="survey-form__checkbox--2">Lorem, ipsum.</label>
+          <input
+            type="checkbox"
+            value="3"
+            id="survey-form__checkbox--3"
+            name="form-checkbox"
+          />
+          <label for="survey-form__checkbox--3">Lorem, ipsum dolor.</label>
+          <input
+            type="checkbox"
+            value="4"
+            id="survey-form__checkbox--4"
+            name="form-checkbox"
+          />
+          <label for="survey-form__checkbox--4">Lorem.</label>
+          <input
+            type="checkbox"
+            value="5"
+            id="survey-form__checkbox--5"
+            name="form-checkbox"
+          />
+          <label for="survey-form__checkbox--5">Lorem, ipsum dolor.</label>
+        </fieldset>
+
+        <div>
+          <div>
+            <label for="survey-form__comments">Comments: </label>
+          </div>
+          <textarea
+            name="form-comments"
+            id="survey-form__comments"
+            rows="5"
+            placeholder="Write your comments..."
+          ></textarea>
+        </div>
+
+        <button id="submit" type="submit">Submit</button>
+      </form>
+    </main>
+  </body>
+</html>
